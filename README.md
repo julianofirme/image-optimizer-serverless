@@ -1,6 +1,6 @@
 # Image Optimizer Serverless
 
-- Just a serverless function to compresse images.
+- Just a serverless function to compress images.
 
 ## Build with
 - [AWS Lambda](https://aws.amazon.com/pt/lambda/)
